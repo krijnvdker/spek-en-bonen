@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wordpress_spek_en_bonen' );
 
 /** MySQL database username */
-define( 'DB_USER', 'krijn' );
+define( 'DB_USER', 'krijnlocal' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'localhosttest' );
+define( 'DB_PASSWORD', 'krijn1234' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
